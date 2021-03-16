@@ -18,3 +18,6 @@ ZCZC W01  30 L15 Assignment #5
 ZCZC W01   5 L16 Assignment #6
 ZCZC W01  60 L17 Assignment #7
 ZCZC W01  30 L18 Assignment #8
+ZCZC W02 100 L02 ZOOM Meeting
+ZCZC W02 120 L08 Trying new things (in struggling mode)
+ZCZC W02  60 L06 Reading Reference book about security
