@@ -21,3 +21,7 @@ ZCZC W01  30 L18 Assignment #8
 ZCZC W02 100 L02 ZOOM Meeting
 ZCZC W02 120 L08 Trying new things (in struggling mode)
 ZCZC W02  60 L06 Reading Reference book about security
+ZCZC W03 100 L02 Zoom Meeting
+ZCZC W03  30 L06 Reading reference book but cant stand it :')
+ZCZC W03  30 L26 Jujutsu kaisen is the best anime
+ZCZC W03 120 L05 GSGS about file system

@@ -2,3 +2,8 @@
 ZCZC W01 hockyy
 ZCZC W01 hanifaudah
 ZCZC W01 gilangcy
+
+#Week02
+ZCZC W02 hockyy
+ZCZC W02 GerradND
+ZCZC W03 handi91
