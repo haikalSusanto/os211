@@ -7,3 +7,8 @@ ZCZC W01 gilangcy
 ZCZC W02 hockyy
 ZCZC W02 GerradND
 ZCZC W03 handi91
+
+#Week03
+ZCZC W03 gilangcy
+ZCZC W03 hanifaudah
+ZCZC W03 hanifahaputri

@@ -25,3 +25,6 @@ ZCZC W03 100 L02 Zoom Meeting
 ZCZC W03  30 L06 Reading reference book but cant stand it :')
 ZCZC W03  30 L26 Jujutsu kaisen is the best anime
 ZCZC W03 120 L05 GSGS about file system
+ZCZC W04  30 L06 Reading book but still doesnt understand
+ZCZC W04  60 L05 GSGS about OS
+ZCZC W04  40 L08 trying something new in kali Linux
