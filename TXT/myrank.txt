@@ -12,3 +12,8 @@ ZCZC W03 handi91
 ZCZC W03 gilangcy
 ZCZC W03 hanifaudah
 ZCZC W03 hanifahaputri
+
+#Week05
+ZCZC W05 hockyy
+ZCZC W05 gilangcy
+ZCZC W05 GerradND
