@@ -29,3 +29,7 @@ ZCZC W04  30 L06 Reading book but still doesnt understand
 ZCZC W04  60 L05 GSGS about OS
 ZCZC W04  40 L08 trying something new in kali Linux
 ZCZC W05  60 L06 Read book chapter 10
+ZCZC W06  45 L05 GoogleSana GoogleSini
+ZCZC W06 120 L13 Assignment #3
+ZCZC W06  20 L12 Assignment #2
+ZCZC W06  60 L14 Assignment #4

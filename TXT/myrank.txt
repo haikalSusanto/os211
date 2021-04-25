@@ -17,3 +17,8 @@ ZCZC W03 hanifahaputri
 ZCZC W05 hockyy
 ZCZC W05 gilangcy
 ZCZC W05 GerradND
+
+#Week06
+ZCZC W06 hanifanggawi
+ZCZC W06 hockyy
+ZCZC W06 gilangcy
