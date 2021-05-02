@@ -22,3 +22,8 @@ ZCZC W05 GerradND
 ZCZC W06 hanifanggawi
 ZCZC W06 hockyy
 ZCZC W06 gilangcy
+
+#Week07
+ZCZC W07 gilangcy
+ZCZC W07 hockyy
+ZCZC W07 hanifaudah

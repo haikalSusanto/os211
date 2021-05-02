@@ -33,3 +33,7 @@ ZCZC W06  45 L05 GoogleSana GoogleSini
 ZCZC W06 120 L13 Assignment #3
 ZCZC W06  20 L12 Assignment #2
 ZCZC W06  60 L14 Assignment #4
+ZCZC W07 120 L06 Read Book chapter 6,7,8
+ZCZC W07  10 L12 Assignment #2
+ZCZC W07 120 L13 Assignment #3
+ZCZC W07  60 L14 Assignment #4
