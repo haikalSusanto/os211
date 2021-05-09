@@ -27,3 +27,9 @@ ZCZC W06 gilangcy
 ZCZC W07 gilangcy
 ZCZC W07 hockyy
 ZCZC W07 hanifaudah
+
+#Week08
+ZCZC W08 hockyy
+ZCZC W08 hanifaudah
+ZCZC W08 hanifanggawi
+
