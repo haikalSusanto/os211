@@ -42,3 +42,5 @@ ZCZC W08  30 L06 Reading reference book
 ZCZC W08 120 L13 Assignment #3
 ZCZC W08  30 L14 Assignment #4
 ZCZC W08 100 L02 Zoom Meeting
+ZCZC W09  30 L06 Reading Reference Book
+ZCZC W09 200 L15 Assignment #5
